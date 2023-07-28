@@ -1,2 +1,1 @@
-# emartapp
-an E-shop webapp 
+# emart-app
